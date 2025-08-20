@@ -1,4 +1,6 @@
-/*Escreva um código onde o usuário entra com sua altura e peso, seja feito o cálculo do seu IMC(IMC = peso/(altura * altura)) e seja exibido a mensagem de acordo com o resultado:
+/*Escreva um código onde o usuário entra com sua altura e peso, 
+seja feito o cálculo do seu IMC(IMC = peso/(altura * altura)) e 
+seja exibido a mensagem de acordo com o resultado:
 
 Se for menor ou igual a 18,5 "Abaixo do peso";
 se por entre 18,6 e 24,9 “Peso ideal”;
